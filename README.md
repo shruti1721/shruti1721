@@ -3,7 +3,7 @@
 <!--
 **shruti1721/shruti1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning about Deep Learning, Computer Vision.
