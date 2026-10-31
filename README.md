@@ -1,8 +1,8 @@
 ### Hi I'm Shruti 👋
-- 🔭 I’m currently working on Machine Learning Models
-- 🌱 I’m currently learning about Deep Learning, Computer Vision.
+- 🔭 I’m currently working on Agentic AI and Automation using CI/CD.
+- 🌱 I’m currently learning about Mathematics behind LLM, MCP, Optimization Models, Guardrails and Evals.
 - 👯 I’m looking to collaborate on research and analysis.
-- ✈️ Hire me for remote work & internships.
+- ✈️ Hire me for remote work.
 - 💬 Ask me how data could impact your lifestyle and businesses.
 - 😄 Pronouns: she/her.
 - 📫 How to reach me: Connect with me through social media.
